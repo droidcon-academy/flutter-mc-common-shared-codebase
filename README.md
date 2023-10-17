@@ -1,2 +1,2 @@
 # Study materials and source code for **Droidcon Academy** course 
-> # Add Course Name 
+> # Building Flutter Applications by Sharing a Common Code Base: Two Mobile and Web-Based Apps, and One Package
