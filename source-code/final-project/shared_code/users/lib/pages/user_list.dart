@@ -150,10 +150,6 @@ class _UserListCustomScrollViewState extends State<UserListCustomScrollView> {
               ),
             ),
             centerTitle: true,
-            // background: const Icon(
-            //   Icons.people,
-            //   size: 128.0,
-            // ),
             background: Image.asset(
               'assets/images/users.png',
               fit: BoxFit.none,
